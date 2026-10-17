@@ -1,2 +1,5 @@
-# random-fact-2026-10-17T06-22-05.954Z-558random-fact-2026-10-17T06-22-05.954Z-558
-"Daily unique fact: " + steps.code.$return_value.fact
+# Daily Random Fact
+
+It takes the Hubble telescope about 97 minutes to complete an orbit of the Earth. On average, the Hubble uses the equivilent amount of energy as 30 household light bulbs to complete an orbit.
+
+*Generated on 2026-10-17T06:22:09.932Z*
